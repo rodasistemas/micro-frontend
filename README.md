@@ -1,9 +1,7 @@
 # Micro Frontend Single SPA in **Module Federation**
 #### Template Skelleton with some basic configurations to start a new project based on Single SPA
 
-###### *|*
-###### *|*
-
+* Basic template configuration for any fw javascript/typescript
 
 
 # Prepare (Optional)
@@ -13,8 +11,11 @@
 ```bash
 npm install -g degit
 ```
-###### *|*
-###### *|*
+or
+```bash
+yarn global add degit
+```
+
 # Usage
 ## Basics
 The simplest use of degit is to download the master branch of a repo from GitHub to the current working directory:
@@ -23,8 +24,8 @@ degit rodasistemas/micro-frontend my-new-project
 ```
 ##### *If the second argument is omitted, the repo will be cloned to the current working directory
 ***
-###### *|*
-###### *|*
+
+
 # Installation
 ```bash
 npm install
