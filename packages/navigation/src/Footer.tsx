@@ -12,6 +12,9 @@ const Footer: React.VFC = () => {
         padding: '2rem',
         minHeight: '100px',
         fontWeight: 'bold',
+        position: 'fixed',
+        bottom:'0px',
+        display: 'flex'
       }}
     >
       Footer from React
